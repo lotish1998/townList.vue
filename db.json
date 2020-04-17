@@ -1,0 +1,64 @@
+{
+  "towns": [
+    {
+      "id": 1,
+      "name": "Луцьк",
+      "population": 213950,
+      "square": 42
+    },
+    {
+      "id": 2,
+      "name": "Рівне",
+      "population": 243934,
+      "square": 63
+    },
+    {
+      "id": 3,
+      "name": "Львів",
+      "population": 721301,
+      "square": 182
+    },
+    {
+      "id": 4,
+      "name": "Вінниця",
+      "population": 370834,
+      "square": 113.2
+    },
+    {
+      "id": 5,
+      "name": "Чернівці",
+      "population": 262276,
+      "square": 152.8
+    },
+    {
+      "id": 6,
+      "name": "Ковель",
+      "population": 69342,
+      "square": 47.3
+    },
+    {
+      "id": 7,
+      "name": "Київ",
+      "population": 2884000,
+      "square": 839
+    },
+    {
+      "id": 8,
+      "name": "Дніпро",
+      "population": 966400,
+      "square": 405
+    },
+    {
+      "id": 9,
+      "name": "Ужгород",
+      "population": 112447,
+      "square": 40
+    },
+    {
+      "id": 10,
+      "name": "Запоріжжя",
+      "population": 746749,
+      "square": 334
+    }
+  ]
+}
